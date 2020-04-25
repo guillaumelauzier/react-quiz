@@ -7,8 +7,8 @@
     "start": "webpack-dev-server --mode development --config webpack.config.dev.js --open",
     "build": "webpack --mode production --config webpack.config.prod.js --progress"
   },
-  "repository": "davidrayoussef/react-quiz",
-  "homepage": "https://github.com/davidrayoussef/react-quiz",
+  "repository": "guillaumelauzier/react-quiz",
+  "homepage": "https://github.com/guillaumelauzier/react-quiz",
   "author": "David Ra Youssef (davidradeveloper@gmail.com)",
   "license": "MIT",
   "devDependencies": {
